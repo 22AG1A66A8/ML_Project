@@ -1,7 +1,9 @@
 # 🛒 Smart Grocery Assistant
 
 The **Smart Grocery Assistant** is a comprehensive Python application built with **Streamlit** that helps users manage their household grocery inventory, plan shopping, track dietary needs, and stay within a defined budget.  
-It integrates smart alerts and machine learning models to provide an **intuitive and efficient grocery management experience**.
+It integrates smart alerts and machine learning models to provide an **intuitive and efficient grocery management experience**.  
+
+👉 **Live Demo**: [Smart Grocery Assistant on Streamlit](https://smart-grocery-assistant.streamlit.app/)
 
 ---
 
@@ -40,6 +42,3 @@ It integrates smart alerts and machine learning models to provide an **intuitive
 - **Streamlit** (frontend framework)
 - **Pandas, NumPy** (data handling)
 - **scikit-learn** (ML models: RandomForestRegressor, evaluation metrics)
-- **Joblib** (model persistence)
-
-
